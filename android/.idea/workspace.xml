@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="EventChannel" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de009e2-2350-428b-a386-532b19dfe5cc" name="Default Changelist" comment="" />
+    <list default="true" id="c8822d4a-c43c-40e3-aeac-d9ea7054af15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/example/flutter_app/OneActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/example/flutter_app/callhandler/FlutterEventPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/example/flutter_app/callhandler/FlutterJumpPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img-folder/flutter_tab_home.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/page/nav/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/page/nav/Home.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,16 +44,35 @@
       </state>
     </system>
   </component>
-  <component name="ProjectId" id="1lzTXxzgWeR3qSjh7pmR7oSPkYe" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ooqJjyTWYeVFFqAakmBKvqUTVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="oneplus-in2010-fd6d4e2e" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.flutter_app" />
+    <property name="DEBUGGER_ID" value="Auto" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1608599241739" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1613963281288" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -41,7 +84,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -98,12 +141,117 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9de009e2-2350-428b-a386-532b19dfe5cc" name="Default Changelist" comment="" />
-      <created>1608598962449</created>
+      <changelist id="c8822d4a-c43c-40e3-aeac-d9ea7054af15" name="Default Changelist" comment="" />
+      <created>1613963220615</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608598962449</updated>
+      <updated>1613963220615</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Auto_Import" timestamp="1613979367275">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1613979367275" />
+    <state x="518" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1613980164947">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1613980164947" />
+    <state x="518" y="141" key="#com.intellij.ide.util.MemberChooser/0.25.1440.790@0.25.1440.790" timestamp="1613964853754" />
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog" timestamp="1613963450366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1613963450366" />
+    <state x="576" y="219" key="AndroidProcessChooserDialog" timestamp="1613982883587">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="576" y="219" key="AndroidProcessChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1613982883587" />
+    <state width="456" height="466" key="DebuggerActiveHint" timestamp="1613982795762">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="456" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1613982795762" />
+    <state width="527" height="466" key="DebuggerActiveHint/0.25.1440.790@0.25.1440.790" timestamp="1613977180203" />
+    <state width="1398" height="382" key="GridCell.Tab.0.bottom" timestamp="1613984728126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613984728126" />
+    <state width="1398" height="382" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1613982864241" />
+    <state width="1398" height="382" key="GridCell.Tab.0.center" timestamp="1613984728125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613984728125" />
+    <state width="1398" height="382" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1613982864240" />
+    <state width="1398" height="382" key="GridCell.Tab.0.left" timestamp="1613984728124">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613984728124" />
+    <state width="1398" height="382" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1613982864240" />
+    <state width="1398" height="382" key="GridCell.Tab.0.right" timestamp="1613984728125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613984728125" />
+    <state width="1398" height="382" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1613982864240" />
+    <state width="1398" height="382" key="GridCell.Tab.1.bottom" timestamp="1613984728128">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613984728128" />
+    <state width="1398" height="382" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1613982864245" />
+    <state width="1398" height="382" key="GridCell.Tab.1.center" timestamp="1613984728127">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1613984728127" />
+    <state width="1398" height="382" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1613982864242" />
+    <state width="1398" height="382" key="GridCell.Tab.1.left" timestamp="1613984728126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1613984728126" />
+    <state width="1398" height="382" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1613982864241" />
+    <state width="1398" height="382" key="GridCell.Tab.1.right" timestamp="1613984728127">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="382" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1613984728127" />
+    <state width="1398" height="382" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1613982864244" />
+    <state x="434" y="176" key="RollbackChangesDialog" timestamp="1613968549078">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="434" y="176" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1613968549078" />
+    <state x="409" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1613967935865">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="409" y="249" key="com.intellij.ide.util.TipDialog/0.25.1440.790@0.25.1440.790" timestamp="1613967935865" />
+    <state x="372" y="207" width="696" height="486" key="find.popup" timestamp="1613977329954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="372" y="207" width="696" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1613977329954" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1613984411720">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1613984411720" />
+    <state x="404" y="130" width="670" height="676" key="search.everywhere.popup" timestamp="1613984450229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="130" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1613984450229" />
+    <state x="404" y="139" key="search.everywhere.popup/0.25.1440.790@0.25.1440.790" timestamp="1613967846113" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="registrar.messenger()" language="kotlin" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="result" language="kotlin" />
+        <watch expression="call.method" language="kotlin" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

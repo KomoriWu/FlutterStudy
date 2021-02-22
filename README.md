@@ -7,7 +7,10 @@ Flutter日常学习（持续更新）
 * BottomNavigationWidget
 * ListView/ListTile
 * Row/Column 水平/垂直布局
-
+* MethodChannel、EventChannel （flutter与native相互调用、交互）
 ## demo展示 
 ### 房间tab
 ![房间tab](https://raw.githubusercontent.com/KomoriWu/FlutterStudy/main/img-folder/flutter_tab_room.jpeg)
+
+### 主页tab
+![主页tab](https://raw.githubusercontent.com/KomoriWu/FlutterStudy/main/img-folder/flutter_tab_home.jpeg)
